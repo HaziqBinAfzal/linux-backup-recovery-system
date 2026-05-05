@@ -29,6 +29,9 @@ Linux, rsync, SSH, GPG, tar, cron, SHA256
 
 ## Team Contribution
 Member 1: Ruveeha Ashfaq
-Member 2: Ambreen Imtiaz  
-Member 3: Muhammad Buddha  
+
+Member 2: Ambreen Imtiaz
+
+Member 3: Muhammad Buddha
+
 Member 4: Haziq Afzal  
