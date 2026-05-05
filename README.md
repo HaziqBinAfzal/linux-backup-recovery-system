@@ -12,7 +12,7 @@ The process is documented using screenshots showing each stage from backup creat
 4. Integrity verification using SHA256  
 5. Secure transfer via SSH  
 6. Automated scheduling using cron  
-7. Recovery and restoration testing  
+7. Recovery and restoration testing
 
 ## Screenshots
 
