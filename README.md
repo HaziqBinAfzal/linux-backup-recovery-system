@@ -28,7 +28,7 @@ The screenshots in this repository show the full lifecycle of the system:
 Linux, rsync, SSH, GPG, tar, cron, SHA256
 
 ## Team Contribution
-Member 1: Server setup and scripts  
-Member 2: Backup automation  
-Member 3: Monitoring and optimization  
-Member 4: Recovery testing  
+Member 1: Ruveeha Ashfaq
+Member 2: Ambreen Imtiaz  
+Member 3: Muhammad Buddha  
+Member 4: Haziq Afzal  
