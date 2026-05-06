@@ -28,10 +28,10 @@ The screenshots in this repository show the full lifecycle of the system:
 Linux, rsync, SSH, GPG, tar, cron, SHA256
 
 ## Team Contribution
-Member 1: Ruveeha Ashfaq
+Member 1: Haziq Afzal
 
-Member 2: Ambreen Imtiaz
+Member 2: Ruveeha Ashfaq
 
-Member 3: Muhammad Buddha
+Member 3: Ambreen Imtiaz
 
-Member 4: Haziq Afzal  
+Member 4: Muhammad Buddha 
