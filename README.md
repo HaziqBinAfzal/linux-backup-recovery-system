@@ -1,4 +1,4 @@
-# Linux Backup and Recovery System
+# Enterprise Linux Backup and Recovery System
 
 This project demonstrates a secure backup and recovery workflow implemented across Linux systems.
 
